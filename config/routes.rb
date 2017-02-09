@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   resources :control_de_peliculas
-  root 'controldepelicula#index'
+  root 'control_de_peliculas#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
