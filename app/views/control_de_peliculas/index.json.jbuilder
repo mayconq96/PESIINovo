@@ -1,0 +1,1 @@
+json.array! @control_de_peliculas, partial: 'control_de_peliculas/control_de_pelicula', as: :control_de_pelicula

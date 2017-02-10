@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titulo: MyString
+  lancamento: 2017-02-09 11:57:08
+  genero: 
+  produtora: MyString
+  duracao: MyString
+  avaliacao: MyString
+
+two:
+  titulo: MyString
+  lancamento: 2017-02-09 11:57:08
+  genero: 
+  produtora: MyString
+  duracao: MyString
+  avaliacao: MyString

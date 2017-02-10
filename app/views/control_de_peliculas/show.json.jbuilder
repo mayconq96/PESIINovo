@@ -1,0 +1,1 @@
+json.partial! "control_de_peliculas/control_de_pelicula", control_de_pelicula: @control_de_pelicula

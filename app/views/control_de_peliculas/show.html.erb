@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Titulo:</strong>
+  <%= @control_de_pelicula.titulo %>
+</p>
+
+<p>
+  <strong>Lancamento:</strong>
+  <%= @control_de_pelicula.lancamento %>
+</p>
+
+<p>
+  <strong>Genero:</strong>
+  <%= @control_de_pelicula.genero %>
+</p>
+
+<p>
+  <strong>Produtora:</strong>
+  <%= @control_de_pelicula.produtora %>
+</p>
+
+<p>
+  <strong>Duracao:</strong>
+  <%= @control_de_pelicula.duracao %>
+</p>
+
+<p>
+  <strong>Avaliacao:</strong>
+  <%= @control_de_pelicula.avaliacao %>
+</p>
+
+<%= link_to 'Edit', edit_control_de_pelicula_path(@control_de_pelicula) %> |
+<%= link_to 'Back', control_de_peliculas_path %>
